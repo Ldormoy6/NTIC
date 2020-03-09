@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Utilisations de l'IA dans le monde du sport
 
 You can use the [editor on GitHub](https://github.com/Ldormoy6/NTIC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
